@@ -6,6 +6,13 @@
 Welcome to colors's documentation!
 ==================================
 
+.. automodule:: colors.hsv
+   :members:
+
+.. autosummary::
+   :toctree: _autosummary
+   :recursive:
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
